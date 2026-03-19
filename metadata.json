@@ -1,0 +1,5 @@
+{
+  "name": "Eclipse",
+  "description": "A multi-feature mobile application interface with navigation for Home, Wallet, Chat, and ID.",
+  "requestFramePermissions": ["camera"]
+}
